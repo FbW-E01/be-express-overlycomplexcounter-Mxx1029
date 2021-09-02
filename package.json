@@ -1,0 +1,16 @@
+{
+  "name": "be-express-overlycomplexcounter-mxx1029",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Create an Express server, which will simply keep track of a single number. Your server will have four endpoints:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
